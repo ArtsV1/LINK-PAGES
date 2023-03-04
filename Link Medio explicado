@@ -1,0 +1,13 @@
+Pon esto en el index.html
+
+
+<a href="nombre_de_la_pagina.html">Texto del enlace</a>
+
+Luego pon esto en el Style.css
+
+<a href="nombre_de_la_pagina.html">Texto del enlace</a>
+
+
+boton personalizado (esto es para regresar ala pagina de inicio)
+
+<a href="index.html"><button style="background: linear-gradient(to bottom, #000000, #ffffff); color: white; padding: 10px 20px; border: none; border-radius: 5px; text-align: center; font-size: 16px; cursor: pointer; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.49); transition: all 0.3s ease;">Go Back.</button></a>
